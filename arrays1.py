@@ -1,4 +1,4 @@
-#python code to demonstrate the working of array(), append(), inssert()
+#python code to demonstrate the working of array(), append(), insert()
 #importing "array" for array operations
 
 import array
