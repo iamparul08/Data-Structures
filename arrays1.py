@@ -3,7 +3,7 @@
 
 import array
 #initializing array with array values
-#initializes array with signed integers
+#initializing array with signed integers
 
 arr = array.array('i', [1, 2, 3])
 
